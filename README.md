@@ -8,9 +8,9 @@ LEGOdudes webshop - en oppfriskning
 - Startet CSS-styling av `<header>` og `<nav>`
 
 ## Tirsdag 16. januar
-- Videreutviklet HTML for produktvisning med `<article>`` for produktkort
+- Videreutviklet HTML for produktvisning med `<article>` for produktkort
 - Laget CSS for visning av produktlister med produktkort
-- Utvikled kode i shopscript.js for å hente produkter fra legodudes.js og skrive dem ut til `<main>``
+- Utvikled kode i shopscript.js for å hente produkter fra legodudes.js og skrive dem ut til `<main>`
 - Laget HTML-grunnlag for handlevognen
 
 ## Torsdag 18. januar
