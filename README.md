@@ -3,7 +3,7 @@ LEGOdudes webshop - en oppfriskning
 
 ## Torsdag 11. januar
 - Satt opp filene vi trenger (index.html, style.css, shopscript.js)
-- Hentet tilleggsfilene (mappen website_images med bilder, samt legodudes.jshttps://github.com/toremake/UIN2024_coursebase/tree/main/LEGOdudes_webshop)
+- Hentet tilleggsfilene (mappen website_images med bilder, samt legodudes.js fra [kursets GitHub-repository](https://github.com/toremake/UIN2024_coursebase/tree/main/LEGOdudes_webshop)
 - Startet koding av `<header>` og `<nav>`
 - Startet CSS-styling av `<header>` og `<nav>`
 
